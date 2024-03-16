@@ -16,3 +16,8 @@ This is a MERN (MongoDB, Express.js, React, Node.js) stack project for note-taki
 - React
 - Node.js
 
+## Overview
+
+
+https://github.com/samolubukun/Notes-App-MERN-/assets/137217836/36da8b6e-6f3b-4074-84e6-229bcb23da28
+
